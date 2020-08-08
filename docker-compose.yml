@@ -1,7 +1,7 @@
 version: '3'
 services:
   archlinux-opencv:
-    image: nykma/archlinux-opencv:4.4.0
+    image: nykma/archlinux-opencv:4.3.0
     build:
       context: .
       dockerfile: Dockerfile
