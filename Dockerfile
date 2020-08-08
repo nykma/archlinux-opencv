@@ -1,4 +1,4 @@
-ARG archlinux_version=20200706
+ARG archlinux_version=20200705
 FROM archlinux:${archlinux_version}
 LABEL maintainer="Nyk Ma <i@nyk.ma>"
 
